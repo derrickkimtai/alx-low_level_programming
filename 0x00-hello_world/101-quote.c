@@ -1,4 +1,5 @@
-#include <unstd.h>
+#include <stdio.h>
+#include <unistd.h>
 /**
  * main: starting point
  * return: endpont 1 succes
