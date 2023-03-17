@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main- Entrypoint
- * return- (1)  succes
+ * main - Entry point
+ * Return:1
  */
-int main (void)
+int main(void)
 {
-write(1, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 59);
+fputs("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", stdout);
 return (1);
 }
