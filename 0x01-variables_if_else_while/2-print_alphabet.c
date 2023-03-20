@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main  = enrty point
- * Return (0) succes
+ * main -main function
+ * Return: (0) succes
  */
 int main(void)
 {
