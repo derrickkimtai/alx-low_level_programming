@@ -1,10 +1,11 @@
 #include "main.h"
 /**
- *_strpbrk - entry point
- *@s: pointer 
+ *_strpbrk - searches a string for any of a set
+ *@s: pointer
  *@accept: pointer
  *Return: 0 success
- */char *_strpbrk(char *s, char *accept)
+ */
+char *_strpbrk(char *s, char *accept)
 {
 	int k;
 
