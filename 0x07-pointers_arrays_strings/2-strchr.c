@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- *_strchr - entry point 
+ *_strchr - entry point
  *@s: input string to search
- *@c: target character 
+ *@c: target character
  *Return: 0 succes
  */
 char *_strchr(char *s, char c)
@@ -18,4 +18,3 @@ char *_strchr(char *s, char c)
 					}
 					return (0);
 					}
-				
