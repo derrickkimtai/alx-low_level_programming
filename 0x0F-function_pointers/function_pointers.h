@@ -23,6 +23,6 @@ void print_c(va_list);
 void print_i(va_list);
 void print_f(va_list);
 void print_s(va_list);
-
+int _putchar(char c);
 #endif
 
