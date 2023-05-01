@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 /**
- * add_nodeint_end - Add a new node at the end 
- * @head: Address 
- * @n: Integer 
+ * add_nodeint_end - Add a new node at the end
+ * @head: Address
+ * @n: Integer
  * Return: 0 succes
  **/
 
