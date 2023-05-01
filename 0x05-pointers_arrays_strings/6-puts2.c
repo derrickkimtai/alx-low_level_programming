@@ -1,17 +1,18 @@
 #include "main.h"
 /**
- *puts2 - print strings
- *@str: function parameter
- *Return: 0
+ * puts2 - prints every character of a string
+ *
+ * @str: character to check
+ *
+ * Return: 0 
  */
+
 void puts2(char *str)
 {
-	int i;
+	int string;
 
-	for (i = 0 ; str[i] != '\0' ; i++)
-	{
-		_putchar(str[i]);
-		i++;
-	}
+	for (string = 0; str[string] != '\0'; string++)
+	if (string % 2 == 0)
+		_putchar(str[string]);
 	_putchar('\n');
 }
