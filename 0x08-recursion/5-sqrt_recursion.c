@@ -15,8 +15,8 @@ int _sqrt_recursion(int n)
 /**
  * actual_sqrt_recursion - square of a number
  * @n: number
- * @i: iterator
- * Return: the resulting square root
+ * @i: miver
+ * Return: -1
  */
 int actual_sqrt_recursion(int n, int i)
 {
