@@ -13,4 +13,6 @@ int wildcmp(char *s1, char *s2);
 int _putchar(char c);
 #include <stdio.h>
 #include <stdlib.h>
+int check_pal(char *s, int i, int len);
+int _strlen_recursion(char *s);
 #endif
