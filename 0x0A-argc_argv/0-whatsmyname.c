@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 /**
  *main - entry point
  *@argc: argument count
@@ -8,8 +7,10 @@
  */
 int main(int argc, char **argv)
 {
-	while (argc--)
+	int i;
+	(void)argc;
 
-	printf("%s\n", *argv++);
-	exit(EXIT_SUCCESS);
+	for (i = 0; i <= 0; i++ )
+	printf("%s\n", argv[0]);
+	return (0);
 }
