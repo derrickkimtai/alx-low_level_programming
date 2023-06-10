@@ -2,27 +2,50 @@
 #include <stdlib.h>
 #include <ctype.h>
 /**
- *
- *
+ *add_positive_numbers - adds two numbers
+ *@argc: argument count
+ *@argv: argument vector
+ *Return: 0
  */
-int main(int argc, char **argv[])
+int add_positive_numbers(int argc, char *argv[])
 {
-	int num1, num2, result;
+	int i, result = 0;
 
-	if (argc = {} )
+	for (i = 1; i < argc; i++)
+	{
+		char *num = argv[i];
+
+		while (*num != '\0')
+		{
+			if (!isdigit(*num))
+		{
+				printf("Error\n");
+				return (1);
+			}
+			num++;
+		}
+			result += atoi(argv[1]);
+		}
+		return (result);
+}
+/**
+ *main - entry point
+ *@argc: argument count
+ *@argv:argument value
+ *Return: o
+ */
+int main(int argc, char *argv[])
+{
+	int result;
+
+	if (argc == 1)
 	{
 		printf("0\n");
 	}
-	else if (argc != isdigit)
-			printf("Error\n");
-			return 1;
-
-			num1 = atoi(argv[1]);
-			num2 = atoi(argv[2]);
-			result = num1 + num2;
-			printf("%d\n", result);
-			return (0);
-
-
-
+	result = add_positive_numbers(argc, argv);
+	if (result != 1)
+	{
+		printf("%d\n", result);
+	}
+	return (0);
 }
