@@ -24,7 +24,7 @@ int add_positive_numbers(int argc, char *argv[])
 			}
 			num++;
 		}
-			result += atoi(argv[1]);
+			result += atoi(argv[i]);
 		}
 		return (result);
 }
