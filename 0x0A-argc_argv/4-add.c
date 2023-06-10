@@ -38,10 +38,6 @@ int main(int argc, char *argv[])
 {
 	int result;
 
-	if (argc == 1)
-	{
-		printf("0\n");
-	}
 	result = add_positive_numbers(argc, argv);
 	if (result != 1)
 	{
