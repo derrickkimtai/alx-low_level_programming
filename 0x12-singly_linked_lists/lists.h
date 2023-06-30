@@ -23,4 +23,6 @@ void free_list(list_t *head);
 #include <stdlib.h>
 int _putchar(char c);
 #include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 #endif
