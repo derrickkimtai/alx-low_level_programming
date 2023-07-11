@@ -1,0 +1,108 @@
+0000000000000000000000000000000000000000 65500c59b9c74defc80154491ee62d82ff8da2ee derrickkimtai <derrickmoio92@gmail.com> 1679917543 +0000	clone: from https://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@github.com/derrickkimtai/alx-low_level_programming.git
+65500c59b9c74defc80154491ee62d82ff8da2ee 9330f490ed8619c39a90ba4f99ea23195c4ac178 derrickkimtai <derrickmoio92@gmail.com> 1679927445 +0000	commit: pointers task
+9330f490ed8619c39a90ba4f99ea23195c4ac178 191c943c3404f57d7e02b05f811ad51c6019d8f5 derrickkimtai <derrickmoio92@gmail.com> 1679929022 +0000	commit: task 0
+191c943c3404f57d7e02b05f811ad51c6019d8f5 53d8e44d37e311f531a96b9cf1e90afa5fad3f2c derrickkimtai <derrickmoio92@gmail.com> 1679930656 +0000	commit (merge): ranking
+53d8e44d37e311f531a96b9cf1e90afa5fad3f2c 48d49aa6fdbfa7d63b4de405fd3d3438ba59ac7f derrickkimtai <derrickmoio92@gmail.com> 1679988247 +0000	commit (merge): task 2
+48d49aa6fdbfa7d63b4de405fd3d3438ba59ac7f be46d06c7a95de5c9f95021e6ddef9edd84cf955 derrickkimtai <derrickmoio92@gmail.com> 1680525319 +0000	commit (merge): tasting
+be46d06c7a95de5c9f95021e6ddef9edd84cf955 0ad92ccd59c03185b1cc9297712e19b16bb8296d derrickkimtai <derrickmoio92@gmail.com> 1680525484 +0000	merge origin: Merge made by the 'recursive' strategy.
+0ad92ccd59c03185b1cc9297712e19b16bb8296d 4ea01ead6b4a1aa4d10f4e883651f6cd40973478 derrickkimtai <derrickmoio92@gmail.com> 1680528874 +0000	commit: task 3
+4ea01ead6b4a1aa4d10f4e883651f6cd40973478 26ddbf48cd98656450af03bb347bc4bd56f82175 derrickkimtai <derrickmoio92@gmail.com> 1680531979 +0000	commit: task 4
+26ddbf48cd98656450af03bb347bc4bd56f82175 040798891f7cf6b8a88c02a3cfa0b9631d7c29e0 derrickkimtai <derrickmoio92@gmail.com> 1680533393 +0000	commit: task 5
+040798891f7cf6b8a88c02a3cfa0b9631d7c29e0 ebc5a7c0e5e4ddc9ed818042b299fd5ab0be668c derrickkimtai <derrickmoio92@gmail.com> 1680591439 +0000	commit: task 2
+ebc5a7c0e5e4ddc9ed818042b299fd5ab0be668c 2be34317d3093bf3545a4e57f13c9ccb1b0a05bf derrickkimtai <derrickmoio92@gmail.com> 1680591719 +0000	commit: task 4
+2be34317d3093bf3545a4e57f13c9ccb1b0a05bf 913eca4011f240fa592a5b44ba695562cd46cc98 derrickkimtai <derrickmoio92@gmail.com> 1680593723 +0000	commit: task 5
+913eca4011f240fa592a5b44ba695562cd46cc98 117cf2f519015ef1a5d5a61db165baaa7bdc479a derrickkimtai <derrickmoio92@gmail.com> 1680595524 +0000	commit: task 6
+117cf2f519015ef1a5d5a61db165baaa7bdc479a bea878369887928ba2043a7e95b4e9834daebc44 derrickkimtai <derrickmoio92@gmail.com> 1680597427 +0000	commit: task 8
+bea878369887928ba2043a7e95b4e9834daebc44 2378957d10ff2c2262214581f752ee44715b327f derrickkimtai <derrickmoio92@gmail.com> 1680599221 +0000	commit: task 8
+2378957d10ff2c2262214581f752ee44715b327f 50e6577cc352b413b137679d7274fe5e950080dd derrickkimtai <derrickmoio92@gmail.com> 1680689615 +0000	commit: task 1
+50e6577cc352b413b137679d7274fe5e950080dd 1aa273c12ea2b1df4f2b4508139f8cb4dd4f676e derrickkimtai <derrickmoio92@gmail.com> 1680691681 +0000	commit: task 1
+1aa273c12ea2b1df4f2b4508139f8cb4dd4f676e c673a30efa3ea3f9c76a768f88b812c9f6e9bb1b derrickkimtai <derrickmoio92@gmail.com> 1680698240 +0000	commit: task 3
+c673a30efa3ea3f9c76a768f88b812c9f6e9bb1b c374157b23846898cb2ff00ebba6415c8a395143 derrickkimtai <derrickmoio92@gmail.com> 1680700226 +0000	commit: task 4
+c374157b23846898cb2ff00ebba6415c8a395143 15196fd538eb8a2666a97ee2f0c32da70771819f derrickkimtai <derrickmoio92@gmail.com> 1680702267 +0000	commit: task 4
+15196fd538eb8a2666a97ee2f0c32da70771819f 7e970c77acd23b0221eb1677dd062bfaf6697600 derrickkimtai <derrickmoio92@gmail.com> 1680704472 +0000	commit: task 5
+7e970c77acd23b0221eb1677dd062bfaf6697600 0f5dc7151a7353e17215572abd91bea5e4faed6a derrickkimtai <derrickmoio92@gmail.com> 1680782414 +0000	commit: task 6
+0f5dc7151a7353e17215572abd91bea5e4faed6a 32b2da901f7fa41a96b81ecb61b762b9889b57f8 derrickkimtai <derrickmoio92@gmail.com> 1680783645 +0000	commit: task 7 8
+32b2da901f7fa41a96b81ecb61b762b9889b57f8 21f9826a12ffe05ddfa36022d10b54b97bd557ab derrickkimtai <derrickmoio92@gmail.com> 1681240064 +0000	commit: task 1234
+21f9826a12ffe05ddfa36022d10b54b97bd557ab 82cfc4cfc237cdde40f7f5bee83d971cc96ee544 derrickkimtai <derrickmoio92@gmail.com> 1681285068 +0000	commit: task 1
+82cfc4cfc237cdde40f7f5bee83d971cc96ee544 326911a65b07b3ed2417bae51f0da9447f102038 derrickkimtai <derrickmoio92@gmail.com> 1681386197 +0000	commit: task 1
+326911a65b07b3ed2417bae51f0da9447f102038 eb18502bc52a7b864047d20e49527f862f4c8702 derrickkimtai <derrickmoio92@gmail.com> 1681386324 +0000	commit: task 1
+eb18502bc52a7b864047d20e49527f862f4c8702 b246a1732f2db29b5cc82670d543e681098f9e0e derrickkimtai <derrickmoio92@gmail.com> 1681387469 +0000	commit: task 2
+b246a1732f2db29b5cc82670d543e681098f9e0e 2e5df200dc2d977abc6013af81622dee7bd696d1 derrickkimtai <derrickmoio92@gmail.com> 1681387623 +0000	commit: task 2
+2e5df200dc2d977abc6013af81622dee7bd696d1 3589dda9691ff0510032abac3e409506c74ce4b3 derrickkimtai <derrickmoio92@gmail.com> 1681411339 +0000	commit: task 2
+3589dda9691ff0510032abac3e409506c74ce4b3 fae60acf824fddae9e94a0d5f134b639bfc90602 derrickkimtai <derrickmoio92@gmail.com> 1681411509 +0000	commit: task 3
+fae60acf824fddae9e94a0d5f134b639bfc90602 bf9548b13b51f280602fc1c088a20accd2c13a8c derrickkimtai <derrickmoio92@gmail.com> 1681497762 +0000	commit: advanced task
+bf9548b13b51f280602fc1c088a20accd2c13a8c 4d0a4140998d8fc65e513278b50b4c94dae98010 derrickkimtai <derrickmoio92@gmail.com> 1681583927 +0000	commit: task 1
+4d0a4140998d8fc65e513278b50b4c94dae98010 555b3e95fc137b3752280ae04a12195c099df28d derrickkimtai <derrickmoio92@gmail.com> 1681584057 +0000	commit: task 1
+555b3e95fc137b3752280ae04a12195c099df28d 6cf7a1ff178b26962d45a23556d41e6d46e1cb4a derrickkimtai <derrickmoio92@gmail.com> 1681584666 +0000	commit: task in general
+6cf7a1ff178b26962d45a23556d41e6d46e1cb4a 74b751373dcc773235381bdf2b70c99281d30677 derrickkimtai <derrickmoio92@gmail.com> 1681726487 +0000	commit: task
+74b751373dcc773235381bdf2b70c99281d30677 9337bee96a6d294327ca914d8adfc78d91c0bd66 derrickkimtai <derrickmoio92@gmail.com> 1681726805 +0000	commit: task
+9337bee96a6d294327ca914d8adfc78d91c0bd66 86019ca8690cb0ee5ba1240d33be0512605c69e6 derrickkimtai <derrickmoio92@gmail.com> 1681736661 +0000	commit: task 1
+86019ca8690cb0ee5ba1240d33be0512605c69e6 58fee90b2f7661bf34713b55899b2dfd95811249 derrickkimtai <derrickmoio92@gmail.com> 1681802339 +0000	commit: task 0
+58fee90b2f7661bf34713b55899b2dfd95811249 6a07d6ceb6273d161ce54218cab67d0de0846ecc derrickkimtai <derrickmoio92@gmail.com> 1681802492 +0000	commit: task 1
+6a07d6ceb6273d161ce54218cab67d0de0846ecc 6f173a3246c743f890b5dafdabe4b794f916f622 derrickkimtai <derrickmoio92@gmail.com> 1681802669 +0000	commit: task 2
+6f173a3246c743f890b5dafdabe4b794f916f622 0e2b6d63b8609ddd0af234805d0b69a25e4c42f2 derrickkimtai <derrickmoio92@gmail.com> 1681803444 +0000	commit (merge): Merge branch 'master' of https://github.com/derrickkimtai/alx-low_level_programming
+0e2b6d63b8609ddd0af234805d0b69a25e4c42f2 db56b95f2a72e336f912a92676240886785d2de0 derrickkimtai <derrickmoio92@gmail.com> 1681803694 +0000	commit: task 3
+db56b95f2a72e336f912a92676240886785d2de0 fc7fda56131f4d9b7e614b49ad11acb99e005026 derrickkimtai <derrickmoio92@gmail.com> 1681807477 +0000	commit: task 1
+fc7fda56131f4d9b7e614b49ad11acb99e005026 55f47ec1c36c652498636e8ef34fc9459cbbf38a derrickkimtai <derrickmoio92@gmail.com> 1681807710 +0000	commit: task 4
+55f47ec1c36c652498636e8ef34fc9459cbbf38a 06716ff5aef339c5edffdc4828b8430341d30f22 derrickkimtai <derrickmoio92@gmail.com> 1681809973 +0000	commit: task 6
+06716ff5aef339c5edffdc4828b8430341d30f22 3d2a11a517e163ad0cce2ca5ee83a2e499f8f4ba derrickkimtai <derrickmoio92@gmail.com> 1681810227 +0000	commit: task 6
+3d2a11a517e163ad0cce2ca5ee83a2e499f8f4ba 9de4fb2a963f97e616c0c4a367d816c92b3db03a derrickkimtai <derrickmoio92@gmail.com> 1681817009 +0000	commit: task 1
+9de4fb2a963f97e616c0c4a367d816c92b3db03a b52e725cae56f4d791a9f3a081e6a522c67ab2cf derrickkimtai <derrickmoio92@gmail.com> 1681817147 +0000	commit: task 7
+b52e725cae56f4d791a9f3a081e6a522c67ab2cf 9f80985c478a0a991b02db6fb90acaebe600733b derrickkimtai <derrickmoio92@gmail.com> 1681818509 +0000	commit: task 1
+9f80985c478a0a991b02db6fb90acaebe600733b c4df76e674a5762ddb9101a268f59822c423e316 derrickkimtai <derrickmoio92@gmail.com> 1681898439 +0000	commit: task 1
+c4df76e674a5762ddb9101a268f59822c423e316 fbef2e0ce08c7f10dab3cbad44850b911e64c4e7 derrickkimtai <derrickmoio92@gmail.com> 1681906447 +0000	commit: general
+fbef2e0ce08c7f10dab3cbad44850b911e64c4e7 02a56d950c498ab88055475f821a08558b175ac0 derrickkimtai <derrickmoio92@gmail.com> 1681985640 +0000	commit: Beauty is variable, ugliness is constant
+02a56d950c498ab88055475f821a08558b175ac0 7bd41d9eadc7b5300a208bea0637de5f599bf2aa derrickkimtai <derrickmoio92@gmail.com> 1681993241 +0000	commit: complicated
+7bd41d9eadc7b5300a208bea0637de5f599bf2aa eeb09cad186985326e7b12c2b221d469ea622147 derrickkimtai <derrickmoio92@gmail.com> 1681996195 +0000	commit: variable
+eeb09cad186985326e7b12c2b221d469ea622147 f481b4451ac2272de0edba4999ef4b79b30daccb derrickkimtai <derrickmoio92@gmail.com> 1682098783 +0000	commit: 3 task
+f481b4451ac2272de0edba4999ef4b79b30daccb 0cca6301d5f21c8bc1aef95aa1bfaf4b5ede9265 derrickkimtai <derrickmoio92@gmail.com> 1682619612 +0000	commit: task 1
+0cca6301d5f21c8bc1aef95aa1bfaf4b5ede9265 b4cf6926ae34d5c4c25b67330adf0b350cc113f8 derrickkimtai <derrickmoio92@gmail.com> 1682671392 +0000	commit: task 1
+b4cf6926ae34d5c4c25b67330adf0b350cc113f8 9879507401a063f8ade6882414214dfac0c9f152 derrickkimtai <derrickmoio92@gmail.com> 1682672255 +0000	commit: task
+9879507401a063f8ade6882414214dfac0c9f152 0f4b81aafeced6bb97bdf9788a2a7220e7a5a911 derrickkimtai <derrickmoio92@gmail.com> 1682672649 +0000	commit: nasm installled
+0f4b81aafeced6bb97bdf9788a2a7220e7a5a911 a1d29285bb56c26fdc47ee929217b07829470fa2 derrickkimtai <derrickmoio92@gmail.com> 1682673496 +0000	commit: node task
+a1d29285bb56c26fdc47ee929217b07829470fa2 b9ef58146182e422e3163099a83008efe541c1ab derrickkimtai <derrickmoio92@gmail.com> 1682677312 +0000	commit: pointers
+b9ef58146182e422e3163099a83008efe541c1ab 841e57ce3072820ae9c14925bfbe036a187cb903 derrickkimtai <derrickmoio92@gmail.com> 1682680355 +0000	commit: server
+841e57ce3072820ae9c14925bfbe036a187cb903 deb86cd3c3a88719a621aa006e2a4b2341957a35 derrickkimtai <derrickmoio92@gmail.com> 1682765182 +0000	commit: last chance
+deb86cd3c3a88719a621aa006e2a4b2341957a35 d6d66a5a8665759b2c317f0026bc0a53c82412a0 derrickkimtai <derrickmoio92@gmail.com> 1682765392 +0000	merge origin: Merge made by the 'recursive' strategy.
+d6d66a5a8665759b2c317f0026bc0a53c82412a0 442b64f0dd62fecb13d0a865a5437aab88b6ccdf derrickkimtai <derrickmoio92@gmail.com> 1682766726 +0000	commit: last chance
+442b64f0dd62fecb13d0a865a5437aab88b6ccdf e109b9431f8bae150bf4cb83a611f179bd6e1dd0 derrickkimtai <derrickmoio92@gmail.com> 1682923298 +0000	commit: cherop
+e109b9431f8bae150bf4cb83a611f179bd6e1dd0 527ab4501c8b0e53d04a53738e873772a845e628 derrickkimtai <derrickmoio92@gmail.com> 1682923807 +0000	commit: untracked files
+527ab4501c8b0e53d04a53738e873772a845e628 a04e08a57caafa78f96725c8642934e0dc88cfcf derrickkimtai <derrickmoio92@gmail.com> 1682924016 +0000	commit: last chances
+a04e08a57caafa78f96725c8642934e0dc88cfcf 77978615e23f3c9f53aa1cc20a1abc9f9ce3ad86 derrickkimtai <derrickmoio92@gmail.com> 1682924601 +0000	commit: luminarc
+77978615e23f3c9f53aa1cc20a1abc9f9ce3ad86 2b1c28fcbf05a6d9f7bb4012106d63be231abd98 derrickkimtai <derrickmoio92@gmail.com> 1682925165 +0000	commit: cherop
+2b1c28fcbf05a6d9f7bb4012106d63be231abd98 e64964926483ed255be8e9e77befa2e212776100 derrickkimtai <derrickmoio92@gmail.com> 1682927931 +0000	commit: malat
+e64964926483ed255be8e9e77befa2e212776100 238a4ef56f47c8e67fdedddf7066d4d6a5869a11 derrickkimtai <derrickmoio92@gmail.com> 1682928790 +0000	commit: func
+238a4ef56f47c8e67fdedddf7066d4d6a5869a11 437ab348127d0c5881a7c748a47f6f1334aaaf7c derrickkimtai <derrickmoio92@gmail.com> 1682935193 +0000	commit: mchanga
+437ab348127d0c5881a7c748a47f6f1334aaaf7c 5f3e14772f49a2eb6d57403e32981a03e0eddeca derrickkimtai <derrickmoio92@gmail.com> 1682935581 +0000	commit: monday
+5f3e14772f49a2eb6d57403e32981a03e0eddeca 7ac12d182f1e061c58dbaad30bcde306f68d5d87 derrickkimtai <derrickmoio92@gmail.com> 1682936157 +0000	commit: sikia
+7ac12d182f1e061c58dbaad30bcde306f68d5d87 42a467a85686674b0a5412cd2c1a4b68deb60699 derrickkimtai <derrickmoio92@gmail.com> 1682940952 +0000	commit: last chances
+42a467a85686674b0a5412cd2c1a4b68deb60699 1218db91fa5c92317f364c8f3e988caddfdb7cff derrickkimtai <derrickmoio92@gmail.com> 1682941569 +0000	commit: second chance
+1218db91fa5c92317f364c8f3e988caddfdb7cff 894dd2ea4e087d50cf9f59c00ddce03f942f4107 derrickkimtai <derrickmoio92@gmail.com> 1682941806 +0000	commit: viatu
+894dd2ea4e087d50cf9f59c00ddce03f942f4107 76b9452ef1e69aba58b31672b27fdd0a5abc0fa8 derrickkimtai <derrickmoio92@gmail.com> 1682941996 +0000	commit: simple shell
+76b9452ef1e69aba58b31672b27fdd0a5abc0fa8 96dc7af19b09310037ec48b9591a66e53b1b45aa derrickkimtai <derrickmoio92@gmail.com> 1682944045 +0000	commit: commintment
+96dc7af19b09310037ec48b9591a66e53b1b45aa dbd09c698a427f390918842ea21642204e82876c derrickkimtai <derrickmoio92@gmail.com> 1682945942 +0000	commit: makosa
+dbd09c698a427f390918842ea21642204e82876c 51be117207e1dcbc2d46b76ff0e0ef9146518a2d derrickkimtai <derrickmoio92@gmail.com> 1682947233 +0000	commit: assumption
+51be117207e1dcbc2d46b76ff0e0ef9146518a2d 9c8a37dd5e0562553cbbd7f8f600bb3b9c31469e derrickkimtai <derrickmoio92@gmail.com> 1682949954 +0000	commit: back up
+9c8a37dd5e0562553cbbd7f8f600bb3b9c31469e 5eb9967260f4e981c346c6ea106b0a2a5f004969 derrickkimtai <derrickmoio92@gmail.com> 1682950260 +0000	commit: watoto
+5eb9967260f4e981c346c6ea106b0a2a5f004969 4cb309e9c5f91ead70074cdfa462d079b9172350 derrickkimtai <derrickmoio92@gmail.com> 1683009943 +0000	commit: nini
+4cb309e9c5f91ead70074cdfa462d079b9172350 a358e3b923e7cf80b28f2f7a4d3ed12d50c5f9af derrickkimtai <derrickmoio92@gmail.com> 1683010100 +0000	commit: cheropta
+a358e3b923e7cf80b28f2f7a4d3ed12d50c5f9af 453aef1a362bfb1eacbd6695077b87bb570b0fdc derrickkimtai <derrickmoio92@gmail.com> 1683206349 +0000	commit: miti ni dawa
+453aef1a362bfb1eacbd6695077b87bb570b0fdc 090f213e22f65d399d3bd0a244b976c27727163e derrickkimtai <derrickmoio92@gmail.com> 1683217331 +0000	commit: davis
+090f213e22f65d399d3bd0a244b976c27727163e fce1816ad5caa3a81b7541f52949e3ba95a1a8ba derrickkimtai <derrickmoio92@gmail.com> 1683318302 +0000	commit: chances in life comes once in life time
+fce1816ad5caa3a81b7541f52949e3ba95a1a8ba eca36f4babf88d294ea4929caca28a4724df47c7 derrickkimtai <derrickmoio92@gmail.com> 1683319073 +0000	commit: blindspot
+eca36f4babf88d294ea4929caca28a4724df47c7 20febb1e8023bf3ba38c8119904370dd2ca0b6bd derrickkimtai <derrickmoio92@gmail.com> 1683704845 +0000	pull: Fast-forward
+20febb1e8023bf3ba38c8119904370dd2ca0b6bd 0af52aabe31349f50b58391ed00d24b5b851cb71 derrickkimtai <derrickmoio92@gmail.com> 1683705070 +0000	commit: metro
+0af52aabe31349f50b58391ed00d24b5b851cb71 605b4edd916a0ded294d8be7f8bcbd044530406e derrickkimtai <derrickmoio92@gmail.com> 1683705960 +0000	commit: permission
+605b4edd916a0ded294d8be7f8bcbd044530406e 36eae6a627aadecfa502f2d56328902b86314a03 derrickkimtai <derrickmoio92@gmail.com> 1683706209 +0000	commit: world
+36eae6a627aadecfa502f2d56328902b86314a03 2ee2a2141ce4093a307a39e9a32737b3d6302770 derrickkimtai <derrickmoio92@gmail.com> 1683881467 +0000	commit: blindspot
+2ee2a2141ce4093a307a39e9a32737b3d6302770 151c787a0bd14a0d97f9c09e464b1709dfa5deca derrickkimtai <derrickmoio92@gmail.com> 1683905776 +0000	commit: weekend
+151c787a0bd14a0d97f9c09e464b1709dfa5deca a4749c527c9b2f1b5bc5203400c8a46b3277767f derrickkimtai <derrickmoio92@gmail.com> 1686115636 +0000	pull: Fast-forward
+a4749c527c9b2f1b5bc5203400c8a46b3277767f f77a13eb3216ffd6eca0b123c6669e6e309bea68 derrickkimtai <derrickmoio92@gmail.com> 1686116498 +0000	pull: Fast-forward
+f77a13eb3216ffd6eca0b123c6669e6e309bea68 f014aee7e9b6f526866047e7355b0ded986d1a68 derrickkimtai <derrickmoio92@gmail.com> 1686123712 +0000	commit: recursion
+f014aee7e9b6f526866047e7355b0ded986d1a68 fa66806912a0998049b3bd83cd1d48c344fa2a7c derrickkimtai <derrickmoio92@gmail.com> 1686125679 +0000	commit: recursion
+fa66806912a0998049b3bd83cd1d48c344fa2a7c d1be3e9e2d05a969ebd4a3c2207423dfb63a33a3 derrickkimtai <derrickmoio92@gmail.com> 1686126238 +0000	commit: recursion
+d1be3e9e2d05a969ebd4a3c2207423dfb63a33a3 0aa7e476d7ce4f18c5c9a10a35ee00d2a45486e9 derrickkimtai <derrickmoio92@gmail.com> 1686126423 +0000	commit: recursion
+0aa7e476d7ce4f18c5c9a10a35ee00d2a45486e9 1648f10c876e987c2652436808b5342d59ff8fc0 derrickkimtai <derrickmoio92@gmail.com> 1686137288 +0000	commit: recursion
+1648f10c876e987c2652436808b5342d59ff8fc0 d8b7c639431d80b06860ede1a5a5b6c902acd044 derrickkimtai <derrickmoio92@gmail.com> 1686139536 +0000	commit: recursion
+d8b7c639431d80b06860ede1a5a5b6c902acd044 ae537d407995f1bd8da89e46228b676c7a2a1ff0 derrickkimtai <derrickmoio92@gmail.com> 1686143003 +0000	commit: recursion
+                                                                                                                                                             
