@@ -3,8 +3,8 @@
  *insert_dnodeint_at_index - inserts a node at a particular part
  *@idx: index
  *@h: pointer of the head
- *@ninteger
- *
+ *@n :integer
+ *Return: the new insertion of the node
  */
 dlistint_t *insert_dnodeint_at_index(dlistint_t **h, unsigned int idx, int n)
 {
